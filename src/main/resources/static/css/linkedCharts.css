@@ -1,0 +1,15 @@
+#barChart,#lineChart{
+    width: 500px;
+    height: 300px;
+    float: left;
+}
+.toTotal{
+    width: 15px;
+    height: 12px;
+    float: left;
+    background: url("../image/ico_arrow.png") no-repeat 100% 100%;
+    background-color: gray;
+}
+.toTotal:hover{
+    cursor: pointer;
+}
